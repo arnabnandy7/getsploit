@@ -108,3 +108,5 @@ Downloading getsploit database archive. Please wait, it may take time. Usually a
 Unpacking database.
 Database download complete. Now you may search exploits using --local key './getsploit.py -l wordpress 4.7'
 ```
+
+<!-- GitAds-Verify: FL8H762VVT7IL6N6MMYFORZB9YKHARY2 -->
