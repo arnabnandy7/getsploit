@@ -109,4 +109,5 @@ Unpacking database.
 Database download complete. Now you may search exploits using --local key './getsploit.py -l wordpress 4.7'
 ```
 
-<!-- GitAds-Verify: FL8H762VVT7IL6N6MMYFORZB9YKHARY2 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/getsploit@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/getsploit@github)
